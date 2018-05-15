@@ -8,7 +8,7 @@
 
 
 var PRODUCTS = [
-  {category: 'Sporting', price: '$49.99', stocked: true, name: 'Football'},
+  {category: 'Sporting', price: '$59.99', stocked: true, name: 'Football'},
   {category: 'Sporting', price: '$9.99', stocked: true, name: 'Baseball'},
   {category: 'Sporting', price: '$29.99', stocked: false, name: 'Basketball'},
   {category: 'Electronics', price: '$99.99', stocked: true, name: 'iPod Touch'},
